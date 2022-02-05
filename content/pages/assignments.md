@@ -370,9 +370,42 @@ Read carefully the introduction to Project 4.2 (pp. 228-229). This project brin
   
  
 
-| | {{< td-colspan 3 >}} {{< /td-colspan >}} |||
-| &nbsp; | Throughout Project 4.2 (Tasks 1 and 2), the main point is to pay attention to and try to account for the kinds of features and relations that generate the grouping boundaries you hear and make. | &nbsp; |
-| {{< td-colspan 3 >}} {{< /td-colspan >}} || 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Throughout Project 4.2 (Tasks 1 and 2), the main point is to pay attention to and try to account for the kinds of features and relations that generate the grouping boundaries you hear and make.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -397,9 +430,42 @@ For **Task 2B only**, you may change one or two pitches in the pitch list if you
   
  
 
-| | {{< td-colspan 3 >}} {{< /td-colspan >}} |||
-| &nbsp; | Notice that there is a new, Final Task within Task 2.B. You must design a second set of durations to make the pitches in each of the rand blocks regrouped in new ways. | &nbsp; |
-| {{< td-colspan 3 >}} {{< /td-colspan >}} || 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Notice that there is a new, Final Task within Task 2.B. You must design a second set of durations to make the pitches in each of the rand blocks regrouped in new ways.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Your work on this project and our discussion in class is an opportunity to reflect on many of the issues that we have covered throughout the semester: the tonal network, rhythmic structure, melodic analysis, movement towards arrivals and departures, moving up and down the structural ladder, simplicity and complexity.
 
